@@ -1,0 +1,166 @@
+main_firms,main_firms_like-names,main_firms_val
+Stryker,"['Stryker Endoscopy', 'Stryker Howmedica Osteonics Corp.', 'Stryker Instruments Div. of Stryker Corporation', 'Stryker Craniomaxillofacial Division', 'Stryker Instruments Division of Stryker Corporation', 'Stryker Medical Division of Stryker Corporation', 'Stryker Spine', 'Stryker Neurovascular', 'Stryker Neurovascular', 'Stryker Communications Corp', 'Orthovita, Inc., dBA Stryker Orthobiologics.', 'Stryker Medical Div. of Stryker Corporation']",11976
+Customed,"['Customed, Inc']",608
+Zimmer,"['Zimmer, Inc.', 'Zimmer Inc.']",1086
+GE Healthcare,"['GE Healthcare, LLC', 'GE OEC Medical Systems, Inc', 'Ge Healthcare It', 'GE Healthcare', 'GE Healthcare It', 'Ge Healthcare, Llc']",2118
+Terumo Cardiovascular Systems,"['Terumo Cardiovascular Corporation', 'Terumo Cardiovascular Systems Corp', 'Terumo Cardiovascular Systems Corporation']",1029
+Boston Scientific,"['Boston Scientific Corporation', 'Boston Scientific CRM Corp', 'Boston Scientific Corporation, Neurovascular, 47900 Bayside Parkway, Fremont, CA 94538']",882
+Biomet,"['Biomet, Inc.', 'Biomet Microfixation, LLC', 'Biomet 3i, LLC', 'Biomet Microfixation, Inc.']",1284
+Beckman,['Beckman Coulter Inc.'],227
+Hospira,['Hospira Inc.'],189
+Cook,"['Cook, Inc.']",172
+Biomerieux,['Biomerieux Inc'],172
+The Anspach Effort,"['The Anspach Effort, Inc.']",170
+Smith & Nephew,"['Smith & Nephew Inc', 'Smith & Nephew, Inc. Endoscopy Division', 'Smith & Nephew Inc.']",678
+Siemens,"['Siemens Medical Solutions USA, Inc - Radiation Oncology', 'Siemens Healthcare Diagnostics Inc', 'Siemens Healthcare Diagnostics', 'Siemens Healthcare Diagnostics, Inc.', 'Siemens Medical Solutions USA, Inc', 'Siemens Medical Solutions USA,  Inc', 'Siemens Healthcare Diagnostics, Inc', 'Siemens Medical Solutions USA, Inc.']",3936
+Philips,"['Philips Healthcare Inc.', 'Philips Medical Systems (Cleveland) Inc', 'Philips Medical Systems North America Co.   Phillips', 'Philips Medical Systems', 'Philips Medical Systems, Inc.']",2040
+ICU Medical,"['ICU Medical, Inc.']",125
+Baxter Healthcare,['Baxter Healthcare Corp.'],124
+Teleflex Medical,"['Teleflex Medical', 'Arrow International, Inc., Division of Teleflex Medical Inc.', 'Arrow International Inc']",636
+Heritage Labs,['Heritage Labs International LLC'],117
+Depuy,"['DePuy Spine, Inc.', 'Depuy Orthopaedics, Inc.', 'DePuy Orthopaedics, Inc.', 'DePuy Mitek, Inc., a Johnson & Johnson Co.']",1184
+Ortho-Clinical Diagnostics,['Ortho-Clinical Diagnostics'],108
+Centurion,"['Centurion Medical Products Corporation', 'Centurion Medical Products']",268
+Angiodynamics,"['Angiodynamics Worldwide Headquarters', 'Angiodynamics, Inc.', 'Angiodynamics, INC']",423
+Smiths Medical,"['Smiths Medical ASD, Inc.', 'Smiths Medical']",214
+Integra LifeSciences,"['Integra LifeSciences Corp.', 'Integra LifeSciences Corporation', 'Integra LifeSciences Corp. d.b.a. Integra Pain Management']",402
+Intuitive Surgical,"['Intuitive Surgical, Inc.']",85
+Sorin Group,"['Sorin Group USA, Inc.', 'Sorin Group Deutschland GmbH']",190
+Codman & Shurtleff,"['Codman & Shurtleff, Inc.']",82
+LumiQuick Diagnostics,['LumiQuick Diagnostics Inc.'],80
+Elekta,"['Elekta, Inc.']",79
+Becton Dickinson,"['Becton Dickinson & Co.', 'Becton Dickinson Medical Systems', 'Becton Dickinson & Company']",423
+Covidien,"['Covidien LP', 'Nellcor Puritan Bennett Inc. (dba Covidien Ltd)', 'Covidien LLC', 'Nellcor Puritan Bennett Inc. (dba Covidien LP)']",712
+Synthes,"['Synthes USA (HQ), Inc.', 'Synthes USA HQ, Inc.', 'Synthes, Inc.']",447
+Multi-Med,"['Multi-Med, Inc.']",75
+Varian Medical Systems,"['Varian Medical Systems, Inc. Oncology Systems', 'Varian Medical Systems, Inc.', 'Varian Medical Systems Oncology Systems']",330
+Nurse Assist,"['Nurse Assist, Inc']",74
+Merit Medical,"['Merit Medical Systems, Inc.']",71
+Instrumed International,"['Instrumed International, Inc.']",66
+Carestream Health,"['Carestream Health Inc.', 'Carestream Health, Inc.']",162
+Medtronic,"['Medtronic Navigation, Inc.', 'Medtronic Inc. Cardiac Rhythm Disease Management', 'Medtronic Sofamor Danek USA Inc', 'Medtronic Neuromodulation', 'Medtronic Inc. Cardiac Rhythm Disease Managment', 'Medtronic Vascular']",1068
+Toshiba,['Toshiba American Medical Systems Inc'],60
+ConMed,"['ConMed Corporation', 'Linvatec Corp. dba ConMed Linvatec', 'ConMed Electrosurgery']",423
+Roche,"['Roche Diagnostics Operations, Inc.', 'Roche Molecular Systems, Inc.', 'Roche Insulin Delivery Systems Inc.']",288
+Fresenius Medical Care Holdings,"['Fresenius Medical Care Holdings, Inc.']",55
+King Systems,['King Systems Corp.'],53
+Zevex International,"['Zevex International, Inc.']",46
+Medical Device Technologies,"['Medical Device Technologies, Inc.']",44
+Abbott,"['Abbott Laboratories', 'Abbott Diabetes Care, Inc.', 'Abbott Point Of Care Inc.', 'Abbott Point of Care Inc.', 'Abbott Molecular']",705
+Wright Medical Technology,['Wright Medical Technology Inc'],42
+Innovatech Medical Resources,['Innovatech Medical Resources L.P.'],42
+Instrumentation Laboratory,['Instrumentation Laboratory Co.'],41
+Atrium Medical,['Atrium Medical Corporation'],40
+Ethicon,"['Ethicon Endo-Surgery Inc', 'Ethicon, Inc.']",114
+Advanced Sterilization,['Advanced Sterilization Products'],37
+Applied Medical Resources,['Applied Medical Resources Corp'],37
+Hill-Rom,"['Hill-Rom, Inc.']",37
+Bausch & Lomb,['Bausch & Lomb Inc'],37
+Remel,['Remel Inc'],36
+MOOG,['MOOG Medical Devices Group'],36
+SpineFrontier,"['SpineFrontier, Inc.']",34
+Steris,['Steris Corporation'],34
+Argon Medical Devices,"['Argon Medical Devices, Inc']",33
+Endotec,"['Endotec, Inc.']",33
+Edwards Lifesciences,"['Edwards Lifesciences, LLC']",32
+Computerized Medical Systems,['Computerized Medical Systems Inc'],31
+Cardinal,"['Cardinal Health', 'Cardinal Health, Medical Products & Services']",90
+NuVasive,['NuVasive Inc'],31
+AGFA,['AGFA Corp.'],30
+Navilyst Medical,"['Navilyst Medical, Inc']",30
+SCC,['SCC Soft Computer'],30
+DeRoyal Industries,"['DeRoyal Industries Inc', 'Deroyal Industries, Inc. Lafollette']",80
+Baxa,['Baxa Corporation'],29
+Cardiac Science,['Cardiac Science Corporation'],29
+Oridion Medical,['Oridion Medical 1987 Ltd.'],28
+Leica Microsystems,"['Leica Microsystems, Inc.']",27
+Orthopediatrics,"['Orthopediatrics Corp', 'OrthoPediatrics Corp']",74
+Aspen Surgical Products,"['Aspen Surgical Products, Inc.']",26
+Spacelabs Healthcare,"['Spacelabs Healthcare, Llc']",25
+Churchill Medical Systems,"['Churchill Medical Systems, Inc.']",25
+Bio-Rad Laboratories,"['Bio-Rad Laboratories Inc', 'Bio-Rad Laboratories, Inc.']",86
+Alere,"['Alere San Diego, Inc.', 'Alere San Diego']",70
+Calbiotech,['Calbiotech Inc'],24
+C.R. Bard,"['Bard Peripheral Vascular Inc', 'Bard Access Systems', 'Davol, Inc., Subs. C. R. Bard, Inc.', 'Davol, Inc., Sub. C. R. Bard, Inc.']",320
+Tripath Imaging,"['Tripath Imaging, Inc.']",24
+Invacare,['Invacare Corporation'],23
+Exactech,"['Exactech, Inc.']",23
+Maquet Cardiovascular,"['Maquet Inc.', 'Maquet Cardiovascular, LLC', 'Maquet Cardiovascular Us Sales, Llc']",159
+Encore Medical,"['Encore Medical, Lp']",22
+Stanley Security Solutions,"['Stanley Security Solutions, Inc.']",22
+Biosense Webster,"['Biosense Webster, Inc.']",22
+Surgical Instrument Service And Savings,"['Surgical Instrument Service And Savings, Inc.']",22
+Cordis,['Cordis Corporation'],21
+Church & Dwight,['Church & Dwight Inc'],21
+Spinal Elements,"['Spinal Elements, Inc']",21
+Waldemar Link GmbH & Co. KG,['Waldemar Link GmbH & Co. KG (Corp. Hq.)'],21
+Encision,"['Encision, Inc.']",20
+Vygon,['Vygon Corporation'],20
+Progressive Medical,['Progressive Medical Inc'],20
+Kimberly-Clark,['Kimberly-Clark Corporation'],19
+Radiometer America,['Radiometer America Inc'],19
+Ortho Development,['Ortho Development Corporation'],19
+Circaid Medical Products,['Circaid Medical Products Inc'],19
+Gambro Renal Products,"['Gambro Renal Products, Incorporated']",19
+LeMaitre Vascular,"['LeMaitre Vascular, Inc.']",19
+Medrad,['Medrad Inc'],18
+Pointe Scientific,"['Pointe Scientific, Inc.']",18
+BioCheck,['BioCheck Inc'],18
+Sanofi,"['Genzyme Corporation, A Sanofi Company']",18
+AMO,"['AMO Puerto Rico Manufacturing, Inc.', 'AMO Manufacturing USA, LLC']",66
+Winco Mfg.,"['Winco Mfg., LLC']",17
+Custom Medical Specialties,"['Custom Medical Specialties, Inc.']",17
+Karl Storz Endoscopy America,['Karl Storz Endoscopy America Inc'],17
+Cincinnati Sub-Zero Products,['Cincinnati Sub-Zero Products Inc'],16
+Westmed,['Westmed Inc'],16
+Osteotech,['Osteotech Inc'],16
+Trumpf Medical Systems,"['Trumpf Medical Systems, Inc.']",16
+CareFusion 303,"['CareFusion 303, Inc.', 'Carefusion 2200 Inc']",52
+Ascent,['Ascent Healthcare Solutions'],16
+Civco Medical Instruments,['Civco Medical Instruments Inc'],15
+Nova Biomedical,['Nova Biomedical Corporation'],15
+Aesculap,"['Aesculap, Inc.']",15
+Convatec,['Convatec Inc.'],15
+Ansell,"['Ansell Healthcare Products LLC', 'Ansell Sandel Medical Industries LLC']",58
+Horiba Instruments,"['Horiba Instruments, Inc dba Horiba Medical']",14
+Olympus America,['Olympus America Inc.'],14
+Orthohelix Surgical Designs,['Orthohelix Surgical Designs Inc'],14
+Cooper Surgical,"['Cooper Surgical, Inc.']",14
+Animas,['Animas Corporation'],13
+Penner,['Penner Mfg Inc'],13
+B. Braun Medical,"['B. Braun Medical, Inc.']",13
+Superstat,['Superstat Corp'],13
+Accuray,['Accuray Incorporated'],12
+Draeger Medical Systems,"['Draeger Medical Systems, Inc.']",12
+Physio Control,"['Physio Control, Inc.']",12
+Advanced Orthopaedic Solutions,['Advanced Orthopaedic Solutions Inc'],12
+Kerr,['Kerr Corporation'],12
+Unimed Surgical Products,"['Unimed Surgical Products, Inc.']",12
+Ventlab,['Ventlab Corporation'],12
+Symbios Medical Products,"['Symbios Medical Products, LLC']",12
+Nitinol Devices and Components,"['Nitinol Devices and Components, Inc.']",12
+Medical Action Industries,['Medical Action Industries Inc'],11
+Hologic,"['Hologic, Inc.']",11
+Sybron,['Sybron Dental Specialties'],11
+Mallinckrodt,['Mallinckrodt Inc'],11
+Alcon Research,"['Alcon Research LTD dba Alcon Laboratories, Inc.']",11
+Teco,['Teco Diagnostics'],11
+St Jude Medical,['St Jude Medical CRMD'],11
+Interventional Spine,['Interventional Spine Inc'],11
+Raysearch,['RAYSEARCH LABORATORIES AB'],11
+NxStage Medical,"['NxStage Medical, Inc.']",11
+Spinal Solutions,"['Spinal Solutions, LLC']",11
+Medline Industries,"['Medline Industries, Inc.']",11
+Nanosphere,"['Nanosphere, Inc.']",11
+Lab Vision,['Lab Vision Corporation'],10
+Steritec Products,"['Steritec Products Mfc. Co., Inc.']",10
+3M,['3M Company / Medical Division'],10
+BD Biosciences,"['BD Biosciences, Systems & Reagents']",10
+Vital Images,"['Vital Images, Inc.']",10
+Alphatec Spine,"['Alphatec Spine, Inc.']",10
+American Medical Systems,"['American Medical Systems, Inc.']",10
+Arjo,"['Arjo, Inc. dba ArjoHuntleigh']",10
+Del Mar Reynolds Medical,"['Del Mar Reynolds Medical, Ltd.']",10
+Mindray,"['Mindray DS USA, Inc. d.b.a. Mindray North America']",10
+Orthopedic Alliance,['Orthopedic Alliance LLC'],10
+ASO,"['ASO, LLC']",10
